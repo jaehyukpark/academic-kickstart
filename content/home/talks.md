@@ -1,8 +1,8 @@
 +++
 # Recent and Upcoming Talks widget.
 widget = "talks"
-active = true
-date = 2019-08-03T00:00:00
+active = false
+date = 2019-08-02T00:00:00
 
 title = "Recent & \n Upcoming Talks"
 subtitle = ""
