@@ -11,8 +11,11 @@ weight = 5
 [interests]
   interests = [
     "Future of Work",
-    "Opioid Epidemics",
-    "Cutural Market Prediction"
+    "Labor Market",
+    "Computational Social Science",
+    "Business Analytics",
+    "Cutural Market Prediction",
+    "Economic Sociology"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -39,12 +42,11 @@ Jaehyuk Park is a PhD candidate in Informatics at Indiana University, Bloomingto
 He is currently affiliate in [Complex Networks and Systems Research](http://cnets.indiana.edu/)
 with minor in [Economics](https://economics.indiana.edu/)
 His research focus on applying computational methods 
-- e.g, network community detection and natural language processing - 
-to build predictive models in the labor market, the cultural market, 
-and opioid epidemics. 
+to build predictive models in the labor market, the cultural market.
 
 He worked as a research associate at 
 [Korea Institute of Science and Technology (KIST)](https://eng.kist.re.kr/kist_eng/main/)
 after earning his MS in Culture Technology from [KAIST](http://www.kaist.ac.kr/html/en/index.html)
 in 2012. He is a reciepient of 
 [LinkedIn Economic Graph Challenge](http://archive.news.indiana.edu/releases/iu/2015/06/iu-linkedin-project.shtml).
+From April 2019, he also has been working as a research scientist intern in [Core Data Science team at *Facebook*](https://research.fb.com/core-data-science/), on the socioeconomic impact of an external economic shock on a local community.
