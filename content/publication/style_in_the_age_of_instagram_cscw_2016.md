@@ -1,5 +1,5 @@
 +++
-title = "Style in the Age of Instagram, CSCW'16"
+title = "Style in the Age of Instagram"
 date = 2016-02-27T21:16:05-04:00
 draft = false
 
@@ -18,11 +18,11 @@ authors = ["Jaehyuk Park", "Giovanni Luca Ciampaglia", "Emilio Ferrara"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = ""
-publication_short = ""
+publication = "ACM Conference on Computer-Supported Cooperative Work and Social Computing"
+publication_short = "CSCW'16"
 
 # Abstract and optional shortened version.
-abstract = "Fashion is a multi-billion dollar industry with social and economic implications worldwide. To gain popularity, brands want to be represented by the top popular models. As new faces are selected using stringent (and often criticized) aesthetic criteria, a priori predictions are made difficult by information cascades and other fundamental trend-setting mechanisms. However, the increasing usage of social media within and without the industry may be affecting this traditional system. We therefore seek to understand the ingredients of success of fashion models in the age of Instagram. Combining data from a comprehensive online fashion database and the popular mobile image-sharing platform, we apply a machine learning framework to predict the tenure of a cohort of new faces for the 2015 Spring / Summer season throughout the subsequent 2015-16 Fall / Winter season. Our framework successfully predicts most of the new popular models who appeared in 2015. In particular, we find that a strong social media presence may be more important than being under contract with a top agency, or than the aesthetic standards sought after by the industry."
+abstract = "In this study, we seek to understand the ingredients of success of fashion models in the age of Instagram. Combining data from a comprehensive online fashion database and the popular mobile image-sharing platform, we apply a machine learning framework to predict the tenure of a cohort of new faces for the 2015 Spring / Summer season throughout the subsequent 2015-16 Fall / Winter season. Our framework successfully predicts most of the new popular models who appeared in 2015. In particular, we find that a strong social media presence may be more important than being under contract with a top agency, or than the aesthetic standards sought after by the industry."
 abstract_short = ""
 
 # Featured image thumbnail (optional)
