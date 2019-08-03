@@ -1,5 +1,5 @@
 +++
-title = "What can the labor flow of 500 million people on LinkedIn tell us about the structure of the global economy?
+title = "What can the labor flow of 500 million people on LinkedIn tell us about the structure of the global economy?"
 date = 2019-08-02T20:53:37-04:00
 draft = true
 

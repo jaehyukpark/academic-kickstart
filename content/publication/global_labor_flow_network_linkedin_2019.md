@@ -1,6 +1,5 @@
 +++
-title = "Global labor flow network reveals the hierarchical organization and 
-        dynamics of geo-industrial clusters"
+title = "Global labor flow network reveals the hierarchical organization and dynamics of geo-industrial clusters"
 date = 2019-08-03T00:00:00
 draft = false
 
